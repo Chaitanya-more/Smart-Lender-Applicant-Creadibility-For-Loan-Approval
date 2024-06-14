@@ -1,5 +1,4 @@
-# Smart Lender - Applicant Credibility Prediction for Loan Approval :moneybag:
-![loan approval](https://c.tenor.com/VgMCLsMYxhQAAAAC/loan.gif)
+# Smart Lender - Applicant Credibility Prediction for Loan Approval :
 
 ## Motivation ::muscle:
 
@@ -11,8 +10,6 @@
 -  Data science project involves not only coding but other core skils like comunicating , storytelling , stakeholder management , we can learn lot from data science field.
 
 ## Introduction ::construction_worker:
-- This is an collaborative project with IBM professional readiness
-program for innovation, employability and entrepreneurship.
 - Loan approval - Loan Approval means a statement by the lender setting forth the terms and conditions upon which the lender is willing to make a particular mortgage loan to a particular buyer
 - This data science project will be implemented based on the applicant credit score , income ,etc.
 - This project will be benfitted for stakeholders working in finance company , high level managers working in banks.
